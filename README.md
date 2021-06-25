@@ -1,3 +1,6 @@
+The netlifi link to the website created in this simple project : (https://reactjs-basics-2021.netlify.app)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
